@@ -1,0 +1,9 @@
+{
+  "_comment": "Copy to config.json and fill in your defaults",
+  "cookies": "www.facebook.com_cookies.txt",
+  "output": "./downloads",
+  "pages": 10,
+  "delay": 2.0,
+  "workers": 5,
+  "verbose": false
+}
